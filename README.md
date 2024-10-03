@@ -1,2 +1,2 @@
 # Machine-Learning-Course
-This Repository is for uploading machine learning course task
+This Repository is for uploading **Machine Learning** course task
