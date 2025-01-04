@@ -2,7 +2,7 @@ README: Implementasi Model Bahasa Karakter dengan Arsitektur Transformer
 Repositori ini memuat sebuah notebook (atau skrip) yang mencontohkan cara membangun dan melatih model bahasa (language model) sederhana berbasis Transformer untuk memprediksi karakter berikutnya (bigram/char-level model). 
 Model ini menggunakan dataset Shakespeare kecil (“tinyshakespeare”) atau naskah serupa, dan menerapkan pendekatan causal language modeling.
 
-#1. Deskripsi Proyek
+1. Deskripsi Proyek
 Pada proyek ini, kita mengimplementasikan arsitektur Transformer sederhana dengan beberapa komponen penting:
 
 Embedding
